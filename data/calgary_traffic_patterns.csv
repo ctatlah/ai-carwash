@@ -1,0 +1,71 @@
+Location_ID,Street_Intersection,Quadrant,Latitude,Longitude,AADT_Volume,Road_Class,Commercial_Activity_Score,Truck_Volume_Pct,Distance_to_City_Center_km,Nearby_Industrial_Zone
+CAL-TRAF-001,Deerfoot Trail & 17 Ave SE,SE,51.206957,-113.988382,70795,Expressway/Arterial,7,11.5,20.26,No
+CAL-TRAF-002,Macleod Trail & Heritage Dr SW,SW,51.03003,-114.131765,92194,Expressway/Arterial,10,13.3,6.84,Yes
+CAL-TRAF-003,Crowchild Trail & 24 Ave NW,NW,51.12462,-113.914021,55769,Expressway/Arterial,4,4.9,19.64,Yes
+CAL-TRAF-004,Stoney Trail & Country Hills Blvd NW,NW,51.084895,-114.249356,108707,Expressway/Arterial,3,6.7,20.2,No
+CAL-TRAF-005,16 Ave NE & 36 St NE,NE,50.8815,-113.901348,39233,Major Collector,9,9.3,26.2,No
+CAL-TRAF-006,Sarcee Trail & Richmond Rd SW,SW,51.049824,-114.038631,122435,Expressway/Arterial,5,15.8,3.74,No
+CAL-TRAF-007,Glenmore Trail & Blackfoot Trail SE,SE,51.203893,-114.049116,65627,Expressway/Arterial,4,6.9,17.85,Yes
+CAL-TRAF-008,Beddington Trail & Hidden Valley Dr NW,NW,50.908634,-114.073636,78483,Expressway/Arterial,9,4.8,15.1,No
+CAL-TRAF-009,Memorial Drive & Edmonton Trail NE,NE,51.103208,-114.139684,122121,Expressway/Arterial,8,5.3,9.94,No
+CAL-TRAF-010,Anderson Rd & Elbow Dr SW,SW,51.21375,-113.972852,24692,Major Collector,4,8.3,21.75,No
+CAL-TRAF-011,Country Hills Blvd & Shaganappi Trail NW,NW,51.196575,-114.220043,87606,Expressway/Arterial,9,10.3,23.55,No
+CAL-TRAF-012,52 St SE & 130 Ave SE,SE,51.004624,-114.154214,39276,Major Collector,7,11.4,10.16,No
+CAL-TRAF-013,Falconridge Blvd & 64 Ave NE,NE,51.060071,-114.201167,21331,Major Collector,9,4.6,14.45,Yes
+CAL-TRAF-014,Bow Trail & 33 St SW,SW,51.142708,-114.180362,57568,Expressway/Arterial,10,2.2,16.23,Yes
+CAL-TRAF-015,McKenzie Towne Blvd & Deerfoot Trail SE,SE,51.127143,-113.974243,88159,Expressway/Arterial,7,16.8,14.19,No
+CAL-TRAF-016,Metis Trail & 80 Ave NE,NE,51.175417,-114.027513,107251,Expressway/Arterial,4,3.5,15.32,No
+CAL-TRAF-017,John Laurie Blvd & Shaganappi Trail NW,NW,50.9636,-114.049852,118335,Expressway/Arterial,5,3.9,9.33,No
+CAL-TRAF-018,Heritage Dr & Fairmount Dr SE,SE,51.124523,-114.166945,35224,Major Collector,8,9.9,13.78,No
+CAL-TRAF-019,Peigan Trail & 52 St SE,SE,50.903541,-114.240585,78419,Expressway/Arterial,9,9.6,24.42,No
+CAL-TRAF-020,Sunridge Blvd & 36 St NE,NE,51.191424,-114.162155,37403,Major Collector,7,10.6,19.12,Yes
+CAL-TRAF-021,Barlow Trail & 32 Ave NE,NE,50.892413,-114.147589,110820,Expressway/Arterial,8,16.1,18.88,No
+CAL-TRAF-022,Blackfoot Trail & 42 Ave SE,SE,51.092725,-113.938174,97557,Expressway/Arterial,6,5.5,15.77,No
+CAL-TRAF-023,Bowness Rd & 85 St NW,NW,51.058863,-113.961222,25173,Major Collector,6,7.7,12.39,No
+CAL-TRAF-024,Canyon Meadows Dr & Bow Bottom Trail SE,SE,50.946757,-114.098141,85080,Expressway/Arterial,6,7.6,11.26,No
+CAL-TRAF-025,Castleridge Blvd & 64 Ave NE,NE,51.048569,-114.101632,40285,Major Collector,7,13.1,3.33,Yes
+CAL-TRAF-026,Chaparral Blvd & 194 Ave SE,SE,51.204147,-114.135547,15663,Major Collector,10,10.9,19.06,No
+CAL-TRAF-027,Edmonton Trail & 32 Ave NE,NE,51.214542,-113.905419,106005,Expressway/Arterial,8,13.1,26.4,No
+CAL-TRAF-028,Erin Woods Dr & 52 St SE,SE,50.967243,-114.238621,16636,Major Collector,3,17.6,20.41,No
+CAL-TRAF-029,Harvest Hills Blvd & 96 Ave NE,NE,50.965013,-113.924924,15854,Major Collector,5,12.9,18.56,No
+CAL-TRAF-030,Heritage Dr & Macleod Trail SW,SW,50.95184,-114.009931,81309,Expressway/Arterial,5,7.9,12.39,Yes
+CAL-TRAF-031,Macleod Trail & 162 Ave SW,SW,50.997102,-114.02427,92157,Expressway/Arterial,8,8.4,7.47,No
+CAL-TRAF-032,Nolan Hill Blvd & Sarcee Trail NW,NW,51.165409,-114.136419,77671,Expressway/Arterial,8,13.1,15.19,No
+CAL-TRAF-033,Saddletowne Circle & 80 Ave NE,NE,51.108623,-114.245928,17811,Major Collector,5,15.0,20.58,No
+CAL-TRAF-034,Seton Blvd & Deerfoot Trail SE,SE,50.927472,-114.003162,122270,Expressway/Arterial,10,10.3,15.08,No
+CAL-TRAF-035,Southland Dr & Acadia Dr SE,SE,50.987484,-114.21105,16802,Major Collector,9,10.7,16.7,No
+CAL-TRAF-036,Symons Valley Rd & 144 Ave NW,NW,51.102294,-113.9577,31646,Major Collector,3,10.3,14.2,Yes
+CAL-TRAF-037,Westwinds Dr & 47 St NE,NE,51.212251,-114.050914,20423,Major Collector,10,12.1,18.74,No
+CAL-TRAF-038,Whitehorn Dr & 36 St NE,NE,51.116829,-113.947102,34554,Major Collector,6,16.2,16.0,No
+CAL-TRAF-039,17 Ave SW & 37 St SW,SW,51.171034,-113.915071,27183,Major Collector,6,16.4,22.35,No
+CAL-TRAF-040,26 Ave SW & Crowchild Trail SW,SW,50.998722,-113.913452,103354,Expressway/Arterial,3,2.1,18.31,Yes
+CAL-TRAF-041,63 St & Shaganappi Trail SE,SE,50.945437,-113.995515,105108,Expressway/Arterial,3,9.9,13.9,Yes
+CAL-TRAF-042,137 Dr & Macleod Trail SW,SW,51.060014,-114.068727,99064,Expressway/Arterial,8,6.2,1.74,Yes
+CAL-TRAF-043,118 St & Deerfoot Trail SE,SE,51.09191,-113.965768,60895,Expressway/Arterial,8,12.3,12.89,No
+CAL-TRAF-044,70 Ave & Macleod Trail SW,SW,50.873454,-114.01953,111835,Expressway/Arterial,3,17.9,19.88,No
+CAL-TRAF-045,126 St & Macleod Trail NW,NW,50.870264,-113.917705,87635,Expressway/Arterial,3,10.8,25.84,No
+CAL-TRAF-046,125 Dr & Stoney Trail SE,SE,50.961351,-114.077199,61102,Expressway/Arterial,4,10.9,9.27,No
+CAL-TRAF-047,76 St & Deerfoot Trail SW,SW,50.939911,-114.010288,91631,Expressway/Arterial,9,4.2,13.49,No
+CAL-TRAF-048,26 St & Stoney Trail SW,SW,50.971444,-114.100779,109748,Expressway/Arterial,4,15.9,8.74,No
+CAL-TRAF-049,144 St & Shaganappi Trail NE,NE,50.890239,-114.109058,57368,Expressway/Arterial,8,16.2,17.63,No
+CAL-TRAF-050,107 Dr & Shaganappi Trail NW,NW,51.106629,-114.133765,65966,Expressway/Arterial,4,10.7,9.72,Yes
+CAL-TRAF-051,67 St & Stoney Trail NW,NW,50.994369,-114.206158,108006,Expressway/Arterial,3,15.2,15.92,Yes
+CAL-TRAF-052,14 Dr & Shaganappi Trail SE,SE,50.883305,-114.060612,109021,Expressway/Arterial,9,13.2,17.96,Yes
+CAL-TRAF-053,22 Dr & Shaganappi Trail NW,NW,51.132555,-114.16159,83251,Expressway/Arterial,4,17.4,13.94,No
+CAL-TRAF-054,149 Ave & Stoney Trail NE,NE,51.194177,-114.092653,121617,Expressway/Arterial,10,10.8,16.75,No
+CAL-TRAF-055,126 Dr & Shaganappi Trail NE,NE,51.130343,-114.052333,68500,Expressway/Arterial,8,13.7,9.75,Yes
+CAL-TRAF-056,153 St & Stoney Trail SE,SE,50.897748,-114.218003,116389,Expressway/Arterial,8,15.7,23.0,No
+CAL-TRAF-057,153 Dr & Deerfoot Trail NW,NW,51.155189,-114.12723,90247,Expressway/Arterial,8,8.9,13.72,No
+CAL-TRAF-058,78 St & Deerfoot Trail SW,SW,50.87021,-113.915863,95158,Expressway/Arterial,10,15.7,25.98,No
+CAL-TRAF-059,25 Dr & Shaganappi Trail SW,SW,50.874244,-114.041021,85977,Expressway/Arterial,5,14.8,19.23,No
+CAL-TRAF-060,133 Blvd & Stoney Trail NE,NE,51.099235,-114.177494,93304,Expressway/Arterial,7,3.1,13.19,Yes
+CAL-TRAF-061,44 St & Stoney Trail SE,SE,51.003443,-114.006519,80351,Expressway/Arterial,8,15.0,8.58,Yes
+CAL-TRAF-062,67 Dr & Deerfoot Trail NE,NE,51.201893,-114.237793,81092,Expressway/Arterial,3,14.9,25.37,Yes
+CAL-TRAF-063,110 St & Shaganappi Trail NE,NE,51.072033,-113.988507,102295,Expressway/Arterial,6,8.0,9.74,No
+CAL-TRAF-064,46 Dr & Stoney Trail SW,SW,51.135014,-113.980265,75150,Expressway/Arterial,3,8.0,14.28,No
+CAL-TRAF-065,121 Dr & Deerfoot Trail NE,NE,50.900695,-114.232645,121234,Expressway/Arterial,7,16.5,23.96,Yes
+CAL-TRAF-066,37 Blvd & Macleod Trail NW,NW,51.038408,-114.074411,119895,Expressway/Arterial,10,9.2,0.75,Yes
+CAL-TRAF-067,132 Ave & Shaganappi Trail NE,NE,51.145967,-114.211053,115566,Expressway/Arterial,7,9.9,19.1,Yes
+CAL-TRAF-068,131 Blvd & Macleod Trail NE,NE,51.06123,-113.997801,93102,Expressway/Arterial,9,4.3,8.43,No
+CAL-TRAF-069,154 Dr & Deerfoot Trail NE,NE,51.018093,-114.171772,56542,Expressway/Arterial,3,15.1,11.47,No
+CAL-TRAF-070,38 Ave & Deerfoot Trail NE,NE,51.07397,-113.94117,81962,Expressway/Arterial,8,15.0,14.87,No

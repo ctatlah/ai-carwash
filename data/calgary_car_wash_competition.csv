@@ -1,0 +1,86 @@
+Business_ID,Brand_Name,Wash_Type,Quadrant,Latitude,Longitude,Customer_Rating,Number_of_Bays,Price_Level,24_Hour_Access
+COMP-001,Mint Smartwash,Wand Wash,SW,51.175218,-114.023126,4.2,6,$$,No
+COMP-002,Co-op,Automatic Touchless,SW,50.938931,-114.03322,2.9,1,$,No
+COMP-003,Petro-Canada,Automatic Touchless,NW,51.198588,-114.228132,2.9,2,$,No
+COMP-004,Independent,Automatic Touchless,SW,50.9398,-114.120774,3.2,2,$,No
+COMP-005,Petro-Canada,Full Service Detailing,NW,51.014507,-114.047441,4.1,2,$$,Yes
+COMP-006,Shell,Wand Wash,SE,50.899076,-114.178075,4.8,15,$$,Yes
+COMP-007,Bubbles Car Wash,Automatic Friction,NW,50.897754,-114.018748,4.2,2,$,No
+COMP-008,Shell,Full Service Detailing,SE,51.090702,-114.043329,2.9,2,$,Yes
+COMP-009,Independent,Wand Wash,NW,50.961158,-114.197813,2.9,9,$,No
+COMP-010,Shell,Full Service Detailing,SW,51.203628,-114.196371,4.2,2,$,No
+COMP-011,Petro-Canada,Automatic Touchless,NE,51.179476,-114.068367,2.6,1,$,Yes
+COMP-012,Great Bubbles,Automatic Touchless,NW,50.919373,-113.980575,4.5,1,$$,Yes
+COMP-013,Independent,Automatic Touchless,NE,51.162823,-114.02909,4.3,1,$$$,No
+COMP-014,Western Car Wash,Wand Wash,NE,51.007937,-114.024127,4.0,8,$,Yes
+COMP-015,Petro-Canada,Automatic Touchless,SW,51.128434,-114.051355,2.6,1,$,No
+COMP-016,Western Car Wash,Wand Wash,NW,51.108568,-114.064306,3.3,12,$$$,No
+COMP-017,Great Bubbles,Full Service Detailing,SE,50.969079,-113.997034,3.0,4,$$$,No
+COMP-018,Petro-Canada,Full Service Detailing,NE,51.090363,-114.075196,2.9,2,$,Yes
+COMP-019,Western Car Wash,Full Service Detailing,NW,50.894904,-114.050599,2.9,3,$,No
+COMP-020,Shell,Automatic Friction,NE,51.075581,-113.93824,2.7,2,$$$,No
+COMP-021,Independent,Automatic Friction,NE,50.975627,-114.117006,2.9,2,$$,Yes
+COMP-022,Great Bubbles,Wand Wash,SW,51.029078,-114.056647,3.5,9,$$$,No
+COMP-023,Western Car Wash,Full Service Detailing,NE,51.131198,-113.99001,4.4,3,$$$,No
+COMP-024,Western Car Wash,Automatic Friction,NW,51.125865,-114.10314,3.1,2,$,No
+COMP-025,Independent,Wand Wash,NW,51.004009,-114.167008,4.7,12,$$,No
+COMP-026,Mint Smartwash,Full Service Detailing,SW,51.197891,-114.1342,4.3,3,$$,Yes
+COMP-027,Bubbles Car Wash,Automatic Friction,SW,51.172485,-114.090451,3.2,2,$$,Yes
+COMP-028,Independent,Full Service Detailing,NE,50.969958,-113.993231,4.1,4,$$,Yes
+COMP-029,Bubbles Car Wash,Wand Wash,NW,50.975673,-114.009487,4.3,6,$$,Yes
+COMP-030,Western Car Wash,Wand Wash,NW,50.921373,-114.097141,4.1,7,$$,No
+COMP-031,Co-op,Full Service Detailing,SE,51.014654,-114.081551,4.8,4,$$,Yes
+COMP-032,Western Car Wash,Automatic Touchless,NE,51.181638,-114.219475,2.9,2,$$,No
+COMP-033,Bubbles Car Wash,Wand Wash,NW,51.052947,-114.059582,3.4,13,$$,Yes
+COMP-034,Mint Smartwash,Wand Wash,NW,51.11682,-113.955103,4.3,15,$$,No
+COMP-035,Western Car Wash,Wand Wash,NW,51.172011,-114.214866,4.5,14,$$,No
+COMP-036,Independent,Automatic Touchless,NE,50.962527,-113.929422,4.6,1,$$$,Yes
+COMP-037,Independent,Wand Wash,NW,50.894751,-114.14415,2.6,8,$$,Yes
+COMP-038,Western Car Wash,Full Service Detailing,SW,51.152523,-113.926124,4.5,2,$,No
+COMP-039,Mint Smartwash,Automatic Friction,SW,50.914312,-114.013366,2.6,1,$$,No
+COMP-040,Bubbles Car Wash,Full Service Detailing,SE,51.164316,-114.024746,2.6,4,$$,No
+COMP-041,Western Car Wash,Wand Wash,SE,51.200378,-113.96054,4.5,12,$,No
+COMP-042,Great Bubbles,Full Service Detailing,SE,50.956481,-113.939209,4.1,4,$,No
+COMP-043,Independent,Wand Wash,NE,50.907555,-113.99255,2.9,10,$$$,No
+COMP-044,Petro-Canada,Full Service Detailing,SE,50.906564,-114.123135,3.1,3,$$,Yes
+COMP-045,Co-op,Automatic Friction,NE,50.907151,-113.95037,3.4,2,$$$,Yes
+COMP-046,Co-op,Full Service Detailing,NW,51.074056,-114.201234,4.1,4,$$,No
+COMP-047,Bubbles Car Wash,Wand Wash,SW,51.081262,-114.186166,4.9,9,$$,Yes
+COMP-048,Great Bubbles,Full Service Detailing,SW,51.040233,-113.9858,4.1,2,$,No
+COMP-049,Shell,Automatic Friction,SE,51.036495,-113.980851,3.9,1,$$$,No
+COMP-050,Shell,Full Service Detailing,SE,50.92449,-113.946766,3.4,2,$$$,No
+COMP-051,Independent,Automatic Touchless,NW,51.123363,-113.91828,2.9,1,$$,No
+COMP-052,Western Car Wash,Automatic Friction,SE,51.079979,-113.999754,3.6,1,$,No
+COMP-053,Bubbles Car Wash,Wand Wash,SE,51.123787,-113.944213,3.2,11,$,Yes
+COMP-054,Mint Smartwash,Wand Wash,SE,51.088683,-114.006703,3.2,8,$$,Yes
+COMP-055,Independent,Wand Wash,SW,51.013127,-113.996282,4.5,11,$$,No
+COMP-056,Great Bubbles,Full Service Detailing,NE,51.120839,-114.083097,3.9,4,$$$,No
+COMP-057,Independent,Wand Wash,SW,50.894028,-114.002204,4.4,6,$,Yes
+COMP-058,Petro-Canada,Wand Wash,NE,50.933419,-113.965838,4.6,9,$$$,No
+COMP-059,Shell,Full Service Detailing,SE,51.175901,-114.006504,3.7,3,$$,No
+COMP-060,Great Bubbles,Automatic Friction,SW,51.157554,-114.166863,3.1,2,$$$,No
+COMP-061,Shell,Wand Wash,NE,50.994414,-114.228472,3.5,12,$$,No
+COMP-062,Western Car Wash,Wand Wash,SE,50.975511,-114.207245,2.9,13,$$,No
+COMP-063,Petro-Canada,Wand Wash,SW,50.991528,-114.154238,3.4,10,$$$,No
+COMP-064,Western Car Wash,Automatic Friction,NW,50.895517,-114.083102,3.3,1,$,No
+COMP-065,Great Bubbles,Automatic Touchless,SE,51.005881,-114.040226,3.6,1,$$$,No
+COMP-066,Mint Smartwash,Automatic Touchless,NE,51.153591,-114.163764,4.7,1,$$,Yes
+COMP-067,Great Bubbles,Full Service Detailing,SW,50.996476,-114.013731,3.8,2,$$$,Yes
+COMP-068,Western Car Wash,Automatic Touchless,SW,51.181006,-114.176957,2.9,1,$$,No
+COMP-069,Shell,Automatic Touchless,NW,51.108954,-114.028004,3.9,1,$$,No
+COMP-070,Great Bubbles,Full Service Detailing,SW,51.043712,-114.204745,2.6,3,$$,No
+COMP-071,Shell,Automatic Friction,NE,51.050236,-114.163959,4.0,1,$$,Yes
+COMP-072,Shell,Full Service Detailing,SW,51.018854,-113.979001,3.4,4,$,No
+COMP-073,Petro-Canada,Wand Wash,SW,51.167497,-114.133725,2.7,14,$$,Yes
+COMP-074,Petro-Canada,Automatic Touchless,SW,51.027822,-114.008564,2.7,1,$$$,No
+COMP-075,Western Car Wash,Automatic Touchless,NW,51.153264,-113.919844,4.0,2,$$,No
+COMP-076,Co-op,Automatic Friction,NE,51.028626,-114.03097,2.7,1,$$$,No
+COMP-077,Bubbles Car Wash,Automatic Touchless,SE,50.954439,-113.953657,4.3,2,$$,No
+COMP-078,Co-op,Automatic Touchless,NE,50.943381,-113.970088,4.8,1,$,Yes
+COMP-079,Co-op,Automatic Friction,NE,51.102,-113.954252,4.6,1,$$,Yes
+COMP-080,Bubbles Car Wash,Wand Wash,NW,50.959111,-114.024285,3.3,6,$$,Yes
+COMP-081,Bubbles Car Wash,Automatic Friction,SW,51.201856,-114.186413,3.0,2,$$$,No
+COMP-082,Petro-Canada,Automatic Friction,SW,51.097145,-114.117905,3.6,2,$$,No
+COMP-083,Independent,Automatic Friction,SE,50.921034,-114.155919,4.8,2,$$$,Yes
+COMP-084,Mint Smartwash,Automatic Friction,SW,51.059609,-113.985116,3.7,1,$$,No
+COMP-085,Independent,Automatic Touchless,NW,50.962513,-114.213282,4.5,1,$$$,No
