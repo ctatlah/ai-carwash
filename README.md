@@ -24,13 +24,26 @@ I researched online how Starbucks used AI/ML to expand into Hyderabad. I found t
 I will use AI tools to generate car wash data that would be similar to real world data that the Atlas Program uses (data mentioned above)
 
 #### Methodology
-What methods are you using to answer the question?
+I will integrated three distinct data layers to create a Master Business Case Dataset:
+
+Demand dataset: 70 major intersections with AADT (Average Annual Daily Traffic) and Road Classifications.
+Competition dataset: 85 existing car wash locations with wash types and customer ratings.
+Demographic dataset: 100 community profiles including Median Income, Household Age, and Apartment Density.
+I will apply a Spatial Nearest-Neighbor Join to link these layers.
+
+Then using Decision Trees I will find optimal locations in Calgary that fit the business logic.
 
 #### Results
-What did your research find?
+This project utilized Exploratory Data Analysis and Machine Learning to identify high potential locations for a new car wash business in Calgary by integrating traffic, competition, and demographic data. By engineering a custom Demand Index and a Gold Mine metric and looking at High Income Earners we created a list of underserved, high volume locations. The final GridSearchCV-tuned Decision Tree validated the findings by a rule-based framework. The top 5 locations highlighted are:
+
+1. 121 Dr & Deerfoot Trail NE
+2. 78 St & Deerfoot Trail SW
+3. Edmonton Trail & 32 Ave NE
+4. 26 Ave SW & Crowchild Trail SW
+5. 126 St & Macleod Trail NW
 
 #### Next steps
-What suggestions do you have for next steps?
+Since we have a curated list of optimal locations will need to physically verify the site location. 
 
 #### Outline of project
 
