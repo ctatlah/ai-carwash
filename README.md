@@ -14,12 +14,13 @@ Where is the optimal geographical location in Calgary, Alberta to open a new car
 The output should be an understanding of where in Calgary represent high-potential locations. I would create a ranked list of the top specific neighborhoods/streets/areas based on success score, high traffic, high income, and low competition where to open a new car wash.
 
 #### Data Sources
-I researched online how Starbucks used AI/ML to expand into Hyderabad. I found they used The Atlas Program which is the "secret sauce" of how Starbucks determines where to open stores. Its a system that relies on Esri for geo-spatial data along with analytics to finalize store location. Data they look at:
-- traffic patterns
-- population density
-- income levels / demographics
-- nearby competitor presence
-- proximity to other Starbucks locations
+After reseaching online how other corporations used AI/ML to expand into different territories I came upon The Atlas Program which is the "secret sauce" of how Starbucks determines where to open stores. Its a system that relies on Esri for geo-spatial data along with analytics to finalize store location. After understanding this I identified the following datasets that would help me in my project
+
+traffic patterns
+population density
+income levels / demographics
+nearby competitor presence
+proximity to other locations such as competitiors and ideal demographic.
 
 I will use AI tools to generate car wash data that would be similar to real world data that the Atlas Program uses (data mentioned above)
 
