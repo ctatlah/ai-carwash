@@ -16,11 +16,11 @@ The output should be an understanding of where in Calgary represent high-potenti
 #### Data Sources
 After reseaching online how other corporations used AI/ML to expand into different territories I came upon The Atlas Program which is the "secret sauce" of how Starbucks determines where to open stores. Its a system that relies on Esri for geo-spatial data along with analytics to finalize store location. After understanding this I identified the following datasets that would help me in my project
 
-traffic patterns
-population density
-income levels / demographics
-nearby competitor presence
-proximity to other locations such as competitiors and ideal demographic.
+- traffic patterns
+- population density
+- income levels / demographics
+- nearby competitor presence
+- proximity to other locations such as competitiors and ideal demographic.
 
 I will use AI tools to generate car wash data that would be similar to real world data that the Atlas Program uses (data mentioned above)
 
